@@ -18,22 +18,6 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor com foco em **Backend Engineering**, trabalhando principalmente com **Python** e desenvolvimento de APIs.
-
-Gosto de entender o que acontece por trás das abstrações: arquitetura de sistemas, HTTP, autenticação, caching, bancos de dados, processamento assíncrono e infraestrutura.
-
-Além de backend, tenho experiência com **desenvolvimento de agentes de IA** usando a API da OpenAI, engenharia e processamento de dados, e automações.
-
-* 🤖 Desenvolvo **agentes de IA** e integrações com LLMs (OpenAI API)
-* 🔭 Atualmente aprofundando conceitos de **sistemas distribuídos** e infraestrutura
-* 🌱 Sempre estudando novas formas de escalar e otimizar sistemas
-* 💬 Pergunte-me sobre Python, APIs, arquitetura de backend, IA e dados
-* ⚡ Fun fact: gosto de entender o "porquê" por trás de cada abstração
-
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -75,9 +59,25 @@ Além de backend, tenho experiência com **desenvolvimento de agentes de IA** us
 
 ---
 
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor com foco em **Backend Engineering**, trabalhando principalmente com **Python** e desenvolvimento de APIs.
+
+Gosto de entender o que acontece por trás das abstrações: arquitetura de sistemas, HTTP, autenticação, caching, bancos de dados, processamento assíncrono e infraestrutura.
+
+Além de backend, tenho experiência com **desenvolvimento de agentes de IA** usando a API da OpenAI, engenharia e processamento de dados, e automações.
+
+* 🤖 Desenvolvo **agentes de IA** e integrações com LLMs (OpenAI API)
+* 🔭 Atualmente aprofundando conceitos de **sistemas distribuídos** e infraestrutura
+* 🌱 Sempre estudando novas formas de escalar e otimizar sistemas
+* 💬 Pergunte-me sobre Python, APIs, arquitetura de backend, IA e dados
+* ⚡ Fun fact: gosto de entender o "porquê" por trás de cada abstração
+
+---
+
 ## 🧠 O que estou estudando
 
-```text
+```text id="lilxfw"
 Backend Engineering & AI
 │
 ├── API Design (FastAPI, Pydantic)
@@ -98,7 +98,7 @@ Gosto de construir sistemas pensando primeiro no **problema e na arquitetura**, 
 
 No backend, procuro separar responsabilidades entre entrada de dados, regras de negócio, persistência, cache e integrações externas.
 
-```text
+```text id="rdm8ka"
 Request
    │
    ▼
@@ -155,7 +155,7 @@ Isso inclui:
 
 Uso **PostgreSQL** para persistência relacional e **Redis** quando existe vantagem real em manter informações em memória.
 
-```text
+```text id="v4n44c"
               ┌────── HIT ──────► Response
               │
 Request ──► Redis
@@ -184,7 +184,7 @@ Na parte de IA, trabalho principalmente com a **OpenAI API**, integração de LL
 
 Procuro tratar o modelo como **um componente da aplicação**, mantendo lógica determinística no backend sempre que ela não precisa depender de IA.
 
-```text
+```text id="5nb4qh"
 Application
      │
      ▼
@@ -218,7 +218,7 @@ Para análise e processamento de dados trabalho com **Pandas, NumPy, Polars e Ap
 
 Procuro organizar processamento como um fluxo claro:
 
-```text
+```text id="scl9ju"
 Raw Data
    │
    ▼
@@ -251,7 +251,7 @@ Uso **Docker** para criar ambientes isolados e reproduzíveis, **Linux** como am
 
 Gosto de enxergar além do código da aplicação:
 
-```text
+```text id="3it7ny"
 Code
  │
  ▼
