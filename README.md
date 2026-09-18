@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo_me.png" width="180px" alt="BrayanDevZN Logo"/>
+<img src="./logo_me-transparent.png" width="180px" alt="BrayanDevZN Logo com fundo transparente"/>
 
 # Olá, eu sou o Brayan 👋
 
@@ -10,9 +10,13 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BrayanDevZN\&style=for-the-badge\&color=blueviolet)
+<img src="./assets/developer-banner-transparent.png" width="900" alt="Workspace de desenvolvimento e infraestrutura com fundo transparente"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/BrayanDevZN?style=for-the-badge\&color=blueviolet)](https://github.com/BrayanDevZN)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BrayanDevZN&style=for-the-badge&color=blueviolet)
+
+[![GitHub followers](https://img.shields.io/github/followers/BrayanDevZN?style=for-the-badge&color=blueviolet)](https://github.com/BrayanDevZN)
 
 </div>
 
@@ -24,36 +28,41 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 ### 🤖 IA & Agentes
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge\&logo=robotframework\&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge\&logo=python\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### ⚙️ Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### 🗄️ Databases & Cache
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📊 Dados
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge\&logo=polars\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### 🐳 Infraestrutura & Ferramentas
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -63,7 +72,7 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 Sou desenvolvedor com foco em **Backend Engineering**, trabalhando principalmente com **Python** e desenvolvimento de APIs.
 
-Gosto de entender o que acontece por trás das abstrações: arquitetura de sistemas, HTTP, autenticação, caching, bancos de dados, processamento assíncrono e infraestrutura.
+Gosto de entender o que acontece por trás das abstrações: arquitetura de sistemas, HTTP, autenticação, caching, bancos de dados, mensageria, processamento assíncrono e infraestrutura.
 
 Além de backend, tenho experiência com **desenvolvimento de agentes de IA** usando a API da OpenAI, engenharia e processamento de dados, e automações.
 
@@ -77,14 +86,15 @@ Além de backend, tenho experiência com **desenvolvimento de agentes de IA** us
 
 ## 🧠 O que estou estudando
 
-```text id="lilxfw"
+```text
 Backend Engineering & AI
 │
 ├── API Design (FastAPI, Pydantic)
 ├── AI Agents & LLM Integration (OpenAI API)
 ├── Authentication & Security
 ├── Caching
-├── Background Processing
+├── Messaging & Event Streaming (Kafka)
+├── Container Orchestration (Kubernetes)
 ├── Concurrency
 ├── System Design
 └── Distributed Systems
@@ -98,7 +108,7 @@ Gosto de construir sistemas pensando primeiro no **problema e na arquitetura**, 
 
 No backend, procuro separar responsabilidades entre entrada de dados, regras de negócio, persistência, cache e integrações externas.
 
-```text id="rdm8ka"
+```text
 Request
    │
    ▼
@@ -155,7 +165,7 @@ Isso inclui:
 
 Uso **PostgreSQL** para persistência relacional e **Redis** quando existe vantagem real em manter informações em memória.
 
-```text id="v4n44c"
+```text
               ┌────── HIT ──────► Response
               │
 Request ──► Redis
@@ -184,7 +194,7 @@ Na parte de IA, trabalho principalmente com a **OpenAI API**, integração de LL
 
 Procuro tratar o modelo como **um componente da aplicação**, mantendo lógica determinística no backend sempre que ela não precisa depender de IA.
 
-```text id="5nb4qh"
+```text
 Application
      │
      ▼
@@ -218,7 +228,7 @@ Para análise e processamento de dados trabalho com **Pandas, NumPy, Polars e Ap
 
 Procuro organizar processamento como um fluxo claro:
 
-```text id="scl9ju"
+```text
 Raw Data
    │
    ▼
@@ -247,11 +257,11 @@ A ferramenta depende do problema e do volume de dados, em vez de existir uma bib
 
 ### 🐳 Infraestrutura & Ambiente
 
-Uso **Docker** para criar ambientes isolados e reproduzíveis, **Linux** como ambiente de desenvolvimento e **Git/GitHub** para versionamento e organização dos projetos.
+Uso **Docker** para criar ambientes isolados e reproduzíveis, **Kubernetes** para orquestração de containers e **Apache Kafka** para mensageria e processamento orientado a eventos. **Linux** é meu ambiente de desenvolvimento, com **Git/GitHub** no versionamento e na organização dos projetos.
 
 Gosto de enxergar além do código da aplicação:
 
-```text id="3it7ny"
+```text
 Code
  │
  ▼
@@ -259,13 +269,14 @@ Application
  │
  ├── Database
  ├── Cache
+ ├── Kafka
  └── External Services
  │
  ▼
 Container
  │
  ▼
-Infrastructure
+Kubernetes
  │
  ▼
 Production
@@ -297,9 +308,9 @@ Production
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
