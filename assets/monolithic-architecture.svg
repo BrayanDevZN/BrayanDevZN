@@ -1,0 +1,15 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Monolithic Architecture</title>
+  <defs>
+    <linearGradient id="mono-gradient" x1="24" y1="18" x2="104" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect x="25" y="13" width="78" height="102" rx="13" fill="url(#mono-gradient)"/>
+  <rect x="38" y="27" width="52" height="18" rx="5" fill="#E0F2FE" fill-opacity=".95"/>
+  <rect x="38" y="55" width="52" height="18" rx="5" fill="#BFDBFE" fill-opacity=".95"/>
+  <rect x="38" y="83" width="52" height="18" rx="5" fill="#DDD6FE" fill-opacity=".95"/>
+  <path d="M47 36h34M47 64h34M47 92h34" stroke="#1E3A8A" stroke-width="5" stroke-linecap="round"/>
+</svg>

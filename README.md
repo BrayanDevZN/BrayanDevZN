@@ -26,43 +26,115 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <div align="center">
 
-### 🤖 IA & Agentes
+### 🤖 IA, Agentes & Automação
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+<br/>
 
-### ⚙️ Backend
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="./assets/openai.svg" width="64" height="64" alt="OpenAI"/><br/>
+      <sub><b>OpenAI API</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="./assets/ai-agents.png" width="64" height="64" alt="AI Agents"/><br/>
+      <sub><b>AI Agents</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="64" height="64" alt="n8n"/><br/>
+      <sub><b>n8n</b></sub>
+    </td>
+  </tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+<br/><br/>
 
-### 🗄️ Databases & Cache
+### ⚙️ Backend & APIs
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
 
-### 📊 Dados
+<table align="center">
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="64" height="64" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/pydantic/E92063" width="64" height="64" alt="Pydantic"/><br/><sub><b>Pydantic</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="64" height="64" alt="SQLAlchemy"/><br/><sub><b>SQLAlchemy</b></sub></td>
+  </tr>
+</table>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+<br/><br/>
 
-### 🐳 Infraestrutura & Ferramentas
+### 🗄️ Bancos de Dados & Cache
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="64" height="64" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="64" height="64" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="64" height="64" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
+  </tr>
+</table>
+
+<br/><br/>
+
+### 📊 Dados & Processamento
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="64" height="64" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="64" height="64" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/polars/CD792C" width="64" height="64" alt="Polars"/><br/><sub><b>Polars</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="64" height="64" alt="Apache Spark"/><br/><sub><b>Apache Spark</b></sub></td>
+  </tr>
+</table>
+
+<br/><br/>
+
+### ☁️ Infraestrutura & DevOps
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="64" height="64" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="64" height="64" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/apachekafka/8892BF" width="64" height="64" alt="Apache Kafka"/><br/><sub><b>Apache Kafka</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="64" height="64" alt="Nginx"/><br/><sub><b>Nginx</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="64" height="64" alt="CI/CD"/><br/><sub><b>CI/CD</b></sub></td>
+  </tr>
+</table>
+
+<br/><br/>
+
+### 🏗️ Arquitetura & Padrões
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="180"><img src="./assets/clean-architecture.svg" width="64" height="64" alt="Clean Architecture"/><br/><sub><b>Clean Architecture</b></sub></td>
+    <td align="center" width="180"><img src="./assets/event-driven.svg" width="64" height="64" alt="Event-Driven Architecture"/><br/><sub><b>Event-Driven</b></sub></td>
+    <td align="center" width="180"><img src="./assets/monolithic-architecture.svg" width="64" height="64" alt="Monolithic Architecture"/><br/><sub><b>Monolithic</b></sub></td>
+  </tr>
+</table>
+
+<br/><br/>
+
+### 🛠️ Ferramentas de Desenvolvimento
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="64" height="64" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" height="64" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/github/8B949E" width="64" height="64" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -257,7 +329,7 @@ A ferramenta depende do problema e do volume de dados, em vez de existir uma bib
 
 ### 🐳 Infraestrutura & Ambiente
 
-Uso **Docker** para criar ambientes isolados e reproduzíveis, **Kubernetes** para orquestração de containers e **Apache Kafka** para mensageria e processamento orientado a eventos. **Linux** é meu ambiente de desenvolvimento, com **Git/GitHub** no versionamento e na organização dos projetos.
+Uso **Docker** para criar ambientes isolados e reproduzíveis, **Kubernetes** para orquestração de containers, **Nginx** como servidor web e proxy reverso, e **Apache Kafka** para mensageria e processamento orientado a eventos. **Linux** é meu ambiente de desenvolvimento, com **Git/GitHub** no versionamento e na organização dos projetos.
 
 Gosto de enxergar além do código da aplicação:
 

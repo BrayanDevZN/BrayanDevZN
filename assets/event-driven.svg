@@ -1,0 +1,15 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Event-Driven Architecture</title>
+  <defs>
+    <linearGradient id="event-gradient" x1="20" y1="20" x2="108" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <path d="M64 22C87 22 106 41 106 64M106 64l-10-10m10 10-10 10M64 106C41 106 22 87 22 64M22 64l10-10M22 64l10 10" fill="none" stroke="url(#event-gradient)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="22" r="11" fill="#22D3EE"/>
+  <circle cx="106" cy="64" r="11" fill="#3B82F6"/>
+  <circle cx="64" cy="106" r="11" fill="#8B5CF6"/>
+  <circle cx="22" cy="64" r="11" fill="#6366F1"/>
+  <path d="M69 38 48 69h15l-5 22 22-34H65z" fill="#F8FAFC" stroke="#2563EB" stroke-width="3" stroke-linejoin="round"/>
+</svg>
