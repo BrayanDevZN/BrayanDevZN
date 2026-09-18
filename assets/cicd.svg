@@ -1,0 +1,12 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">CI/CD</title>
+  <defs>
+    <linearGradient id="cicd-gradient" x1="18" y1="28" x2="110" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <path d="M64 64C51 43 40 34 27 34 13 34 8 47 8 64s5 30 19 30c13 0 24-9 37-30 13-21 24-30 37-30 14 0 19 13 19 30s-5 30-19 30c-13 0-24-9-37-30Z" fill="none" stroke="url(#cicd-gradient)" stroke-width="10" stroke-linecap="round"/>
+  <path d="m22 25 9 9-9 9M106 85l-9 9 9 9" fill="none" stroke="#E0F2FE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

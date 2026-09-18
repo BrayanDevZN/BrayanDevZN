@@ -4,9 +4,9 @@
 
 # Olá, eu sou o Brayan 👋
 
-### Backend Developer | AI Engineer | Data Analytics
+### Backend Developer • AI Engineer • Data & Automation
 
-Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e escalabilidade**.
+Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em arquitetura, desempenho e evolução sustentável.
 
 <br/>
 
@@ -30,22 +30,9 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="./assets/openai.svg" width="64" height="64" alt="OpenAI"/><br/>
-      <sub><b>OpenAI API</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="./assets/ai-agents.png" width="64" height="64" alt="AI Agents"/><br/>
-      <sub><b>AI Agents</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="64" height="64" alt="n8n"/><br/>
-      <sub><b>n8n</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack-ai-automation.png" width="680" alt="OpenAI API, Anthropic API, AI Agents e n8n"/>
+</p>
 
 <br/><br/>
 
@@ -53,14 +40,9 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python"/><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="64" height="64" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/pydantic/E92063" width="64" height="64" alt="Pydantic"/><br/><sub><b>Pydantic</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="64" height="64" alt="SQLAlchemy"/><br/><sub><b>SQLAlchemy</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack-backend.png" width="750" alt="Python, FastAPI, Celery, Pydantic e SQLAlchemy"/>
+</p>
 
 <br/><br/>
 
@@ -68,14 +50,9 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="64" height="64" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="64" height="64" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="64" height="64" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack-databases.png" width="660" alt="PostgreSQL, MongoDB, Redis e SQLite"/>
+</p>
 
 <br/><br/>
 
@@ -83,14 +60,9 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="64" height="64" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="64" height="64" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/polars/CD792C" width="64" height="64" alt="Polars"/><br/><sub><b>Polars</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="64" height="64" alt="Apache Spark"/><br/><sub><b>Apache Spark</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack-data.png" width="680" alt="Pandas, NumPy, Polars e Apache Spark"/>
+</p>
 
 <br/><br/>
 
@@ -98,29 +70,9 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="64" height="64" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="64" height="64" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/apachekafka/8892BF" width="64" height="64" alt="Apache Kafka"/><br/><sub><b>Apache Kafka</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="64" height="64" alt="Nginx"/><br/><sub><b>Nginx</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="64" height="64" alt="CI/CD"/><br/><sub><b>CI/CD</b></sub></td>
-  </tr>
-</table>
-
-<br/><br/>
-
-### 🏗️ Arquitetura & Padrões
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="180"><img src="./assets/clean-architecture.svg" width="64" height="64" alt="Clean Architecture"/><br/><sub><b>Clean Architecture</b></sub></td>
-    <td align="center" width="180"><img src="./assets/event-driven.svg" width="64" height="64" alt="Event-Driven Architecture"/><br/><sub><b>Event-Driven</b></sub></td>
-    <td align="center" width="180"><img src="./assets/monolithic-architecture.svg" width="64" height="64" alt="Monolithic Architecture"/><br/><sub><b>Monolithic</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack-infrastructure.png" width="775" alt="Docker, Kubernetes, Apache Kafka, Nginx e CI/CD"/>
+</p>
 
 <br/><br/>
 
@@ -128,13 +80,19 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="64" height="64" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" height="64" alt="Git"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/github/8B949E" width="64" height="64" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack-tools.png" width="640" alt="Linux, Git, GitHub e GitHub Actions"/>
+</p>
+
+<br/><br/>
+
+### 🏗️ Arquitetura & Padrões
+
+<br/>
+
+<p align="center">
+  <img src="./assets/stack-architecture.png" width="570" alt="Clean Architecture, Event-Driven e Monolithic"/>
+</p>
 
 </div>
 
@@ -142,100 +100,89 @@ Construindo sistemas, APIs e soluções com foco em **arquitetura, performance e
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor com foco em **Backend Engineering**, trabalhando principalmente com **Python** e desenvolvimento de APIs.
+Sou desenvolvedor com foco em **Backend Engineering**, usando Python para transformar regras de negócio em serviços confiáveis, bem estruturados e fáceis de evoluir.
 
-Gosto de entender o que acontece por trás das abstrações: arquitetura de sistemas, HTTP, autenticação, caching, bancos de dados, mensageria, processamento assíncrono e infraestrutura.
+Meu trabalho conecta quatro áreas que se complementam:
 
-Além de backend, tenho experiência com **desenvolvimento de agentes de IA** usando a API da OpenAI, engenharia e processamento de dados, e automações.
+- **Backend:** APIs, autenticação, processamento assíncrono e integrações;
+- **IA e automação:** agentes, LLMs, tool calling e fluxos com n8n;
+- **Dados:** persistência, cache, pipelines e processamento analítico;
+- **Arquitetura:** separação de responsabilidades, eventos e infraestrutura reproduzível.
 
-* 🤖 Desenvolvo **agentes de IA** e integrações com LLMs (OpenAI API)
-* 🔭 Atualmente aprofundando conceitos de **sistemas distribuídos** e infraestrutura
-* 🌱 Sempre estudando novas formas de escalar e otimizar sistemas
-* 💬 Pergunte-me sobre Python, APIs, arquitetura de backend, IA e dados
-* ⚡ Fun fact: gosto de entender o "porquê" por trás de cada abstração
+Gosto de entender o que existe por trás das abstrações e escolher cada tecnologia pelo problema que ela resolve.
 
 ---
 
-## 🧠 O que estou estudando
+## 🎯 Foco atual
 
 ```text
-Backend Engineering & AI
+Backend Engineering, AI & Distributed Systems
 │
-├── API Design (FastAPI, Pydantic)
-├── AI Agents & LLM Integration (OpenAI API)
-├── Authentication & Security
-├── Caching
-├── Messaging & Event Streaming (Kafka)
-├── Container Orchestration (Kubernetes)
-├── Concurrency
-├── System Design
-└── Distributed Systems
+├── APIs seguras e observáveis
+├── Clean Architecture e System Design
+├── Agentes de IA e automação
+├── Mensageria e arquiteturas orientadas a eventos
+├── Concorrência e processamento assíncrono
+├── Containers, CI/CD e orquestração
+└── Escalabilidade e sistemas distribuídos
 ```
 
 ---
 
-## 🛠️ Como eu trabalho
+## 🧩 Como construo sistemas
 
-Gosto de construir sistemas pensando primeiro no **problema e na arquitetura**, e só depois nas ferramentas.
+Começo pelo domínio e pelos requisitos do sistema. Depois defino limites, responsabilidades, dados e integrações; a escolha das ferramentas vem como consequência.
 
-No backend, procuro separar responsabilidades entre entrada de dados, regras de negócio, persistência, cache e integrações externas.
+Um fluxo típico separa entrada, validação, regras de negócio e infraestrutura:
 
 ```text
 Request
    │
    ▼
 ┌───────────────┐
+│ Nginx / API   │
+│    Gateway    │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
 │    FastAPI    │
-│  HTTP / API   │
+│  HTTP Layer   │
 └───────┬───────┘
         │
         ▼
 ┌───────────────┐
-│   Pydantic    │
-│  Validation   │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│ Business Logic│
+│  Application  │
 │   Services    │
 └───────┬───────┘
         │
    ┌────┴─────────────┐
    │                  │
    ▼                  ▼
-┌─────────┐      ┌──────────┐
-│  Redis  │      │SQLAlchemy│
-│  Cache  │      │   ORM    │
-└─────────┘      └────┬─────┘
-                      │
-                      ▼
-                ┌───────────┐
-                │PostgreSQL │
-                └───────────┘
+┌─────────┐      ┌──────────────┐
+│  Redis  │      │ Persistence  │
+│  Cache  │      │ SQL / NoSQL  │
+└─────────┘      └──────────────┘
 ```
 
 ### ⚙️ Backend & APIs
 
-Com **Python, FastAPI, Pydantic e SQLAlchemy**, trabalho com desenvolvimento de APIs pensando não apenas no endpoint, mas no comportamento do sistema como um todo.
+Com **Python, FastAPI, Celery, Pydantic e SQLAlchemy**, desenvolvo APIs e tarefas assíncronas pensando no comportamento do sistema como um todo — não apenas nos endpoints.
 
-Isso inclui:
+Minhas principais preocupações são:
 
-* organização e separação de responsabilidades;
-* autenticação e autorização;
-* validação e modelagem de dados;
-* caching e invalidação de cache;
-* rate limiting;
-* processamento assíncrono;
-* integração com serviços e APIs externas;
-* tratamento de erros e logging;
-* acesso e persistência de dados.
+- contratos e validação de dados;
+- autenticação, autorização e segurança;
+- separação de responsabilidades e regras de negócio;
+- processamento assíncrono e integrações externas;
+- tratamento de erros, logs e observabilidade;
+- testes, desempenho e evolução da aplicação.
 
 ---
 
 ### ⚡ Cache & Persistência
 
-Uso **PostgreSQL** para persistência relacional e **Redis** quando existe vantagem real em manter informações em memória.
+Uso **PostgreSQL** para dados relacionais, **MongoDB** quando o modelo documental faz sentido e **Redis** para acelerar operações que se beneficiam de acesso em memória.
 
 ```text
               ┌────── HIT ──────► Response
@@ -254,17 +201,13 @@ Request ──► Redis
                     Response
 ```
 
-Além de caching, utilizo Redis para **TTL, contadores, rate limiting e estruturas temporárias**.
-
-A ideia é evitar consultas e processamento desnecessários sem transformar cache em fonte de verdade.
+Além de cache, Redis pode apoiar **TTL, contadores, rate limiting e estruturas temporárias**. A fonte de verdade continua sendo definida explicitamente, evitando inconsistência entre camadas.
 
 ---
 
 ### 🤖 IA & Agentes
 
-Na parte de IA, trabalho principalmente com a **OpenAI API**, integração de LLMs, agentes e automações.
-
-Procuro tratar o modelo como **um componente da aplicação**, mantendo lógica determinística no backend sempre que ela não precisa depender de IA.
+Na área de IA, trabalho com **OpenAI API**, **Anthropic API**, agentes, ferramentas e automações. Trato o modelo como um componente da aplicação, mantendo no backend tudo o que precisa ser previsível, validável e seguro.
 
 ```text
 Application
@@ -290,13 +233,13 @@ Application
           Response
 ```
 
-Meu foco está em **LLM Integration, Agent Design, tool calling, automação e orquestração**.
+Meu foco está em **integração de LLMs, design de agentes, tool calling, automação e orquestração de fluxos**.
 
 ---
 
 ### 📊 Dados
 
-Para análise e processamento de dados trabalho com **Pandas, NumPy, Polars e Apache Spark**.
+Para análise e processamento de dados, trabalho com **Pandas, NumPy, Polars e Apache Spark**, escolhendo a ferramenta de acordo com o volume e o tipo de transformação.
 
 Procuro organizar processamento como um fluxo claro:
 
@@ -323,66 +266,66 @@ Processed Data
    └──► API
 ```
 
-A ferramenta depende do problema e do volume de dados, em vez de existir uma biblioteca padrão para qualquer situação.
+O objetivo é manter pipelines legíveis, validáveis e preparados para alimentar análises, bancos de dados e APIs.
 
 ---
 
 ### 🐳 Infraestrutura & Ambiente
 
-Uso **Docker** para criar ambientes isolados e reproduzíveis, **Kubernetes** para orquestração de containers, **Nginx** como servidor web e proxy reverso, e **Apache Kafka** para mensageria e processamento orientado a eventos. **Linux** é meu ambiente de desenvolvimento, com **Git/GitHub** no versionamento e na organização dos projetos.
+Uso **Docker** para ambientes reproduzíveis, **Kubernetes** para orquestração, **Nginx** como servidor web e proxy reverso, e **Apache Kafka** em fluxos orientados a eventos. O ciclo de desenvolvimento passa por Linux, Git/GitHub e automações de CI/CD com **GitHub Actions**.
 
 Gosto de enxergar além do código da aplicação:
 
 ```text
-Code
- │
- ▼
+Source Code
+    │
+    ▼
+Tests & CI/CD
+    │
+    ▼
+Docker Image
+    │
+    ▼
+Nginx / Kubernetes
+    │
+    ▼
 Application
- │
- ├── Database
- ├── Cache
- ├── Kafka
- └── External Services
- │
- ▼
-Container
- │
- ▼
-Kubernetes
- │
- ▼
-Production
+    │
+    ├── Database
+    ├── Cache
+    ├── Kafka
+    └── External Services
 ```
 
-> **Primeiro entendo o problema. Depois escolho a ferramenta. Complexidade precisa ter motivo.**
+> **Primeiro o problema. Depois a arquitetura. Por último, as ferramentas.**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 GitHub em números
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BrayanDevZN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrayanDevZN&theme=tokyonight" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrayanDevZN&theme=tokyonight" alt="Linguagens por repositório" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanDevZN&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
+<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanDevZN&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📫 Conecte-se comigo
+## 🤝 Vamos conversar?
+
+Se você gosta de backend, arquitetura, inteligência artificial ou dados, fique à vontade para acompanhar meus projetos e trocar ideias comigo pelo GitHub.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<a href="https://github.com/BrayanDevZN">
+  <img src="https://cdn.simpleicons.org/github/8B949E" width="56" height="56" alt="GitHub"/>
+</a>
+<br/>
+<sub><b>@BrayanDevZN</b></sub>
 
 </div>
 
@@ -390,6 +333,6 @@ Production
 
 <div align="center">
 
-### `Code. Build. Learn. Repeat.`
+### `Understand. Design. Build. Improve.`
 
 </div>

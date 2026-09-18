@@ -1,0 +1,11 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Nginx</title>
+  <defs>
+    <linearGradient id="nginx-gradient" x1="22" y1="18" x2="106" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D058"/>
+      <stop offset="1" stop-color="#009639"/>
+    </linearGradient>
+  </defs>
+  <path d="m64 8 48 28v56l-48 28-48-28V36Z" fill="url(#nginx-gradient)"/>
+  <path d="M39 91V37h12l26 34V37h12v54H77L51 57v34Z" fill="#F8FAFC"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">GitHub Actions</title>
+  <defs>
+    <linearGradient id="actions-gradient" x1="20" y1="16" x2="108" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#2088FF"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="43" cy="42" r="25" fill="url(#actions-gradient)"/>
+  <path d="m37 29 20 13-20 13Z" fill="#F8FAFC"/>
+  <path d="M64 42h18v22m0 0H62m20 0v22h18" fill="none" stroke="#2088FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="100" cy="86" r="12" fill="#6366F1" stroke="#E0F2FE" stroke-width="5"/>
+  <circle cx="62" cy="64" r="10" fill="#38BDF8" stroke="#E0F2FE" stroke-width="5"/>
+</svg>

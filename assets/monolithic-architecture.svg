@@ -1,15 +1,16 @@
 <svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
   <title id="title">Monolithic Architecture</title>
   <defs>
-    <linearGradient id="mono-gradient" x1="24" y1="18" x2="104" y2="110" gradientUnits="userSpaceOnUse">
+    <linearGradient id="mono-gradient" x1="20" y1="14" x2="108" y2="114" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8"/>
-      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
       <stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
   </defs>
-  <rect x="25" y="13" width="78" height="102" rx="13" fill="url(#mono-gradient)"/>
-  <rect x="38" y="27" width="52" height="18" rx="5" fill="#E0F2FE" fill-opacity=".95"/>
-  <rect x="38" y="55" width="52" height="18" rx="5" fill="#BFDBFE" fill-opacity=".95"/>
-  <rect x="38" y="83" width="52" height="18" rx="5" fill="#DDD6FE" fill-opacity=".95"/>
-  <path d="M47 36h34M47 64h34M47 92h34" stroke="#1E3A8A" stroke-width="5" stroke-linecap="round"/>
+  <rect x="16" y="10" width="96" height="108" rx="20" fill="url(#mono-gradient)"/>
+  <rect x="29" y="23" width="70" height="82" rx="13" fill="#0F172A" stroke="#BFDBFE" stroke-width="5"/>
+  <rect x="39" y="34" width="50" height="17" rx="6" fill="#22D3EE"/>
+  <rect x="39" y="56" width="50" height="17" rx="6" fill="#60A5FA"/>
+  <rect x="39" y="78" width="50" height="17" rx="6" fill="#A78BFA"/>
+  <path d="M47 42.5h34M47 64.5h34M47 86.5h34" stroke="#F8FAFC" stroke-width="4" stroke-linecap="round"/>
 </svg>

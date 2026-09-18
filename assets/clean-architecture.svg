@@ -1,14 +1,14 @@
 <svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
   <title id="title">Clean Architecture</title>
   <defs>
-    <linearGradient id="clean-gradient" x1="18" y1="18" x2="110" y2="110" gradientUnits="userSpaceOnUse">
+    <linearGradient id="clean-gradient" x1="16" y1="14" x2="112" y2="114" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE"/>
       <stop offset="0.5" stop-color="#3B82F6"/>
       <stop offset="1" stop-color="#8B5CF6"/>
     </linearGradient>
   </defs>
-  <circle cx="64" cy="64" r="52" fill="none" stroke="url(#clean-gradient)" stroke-width="10"/>
-  <circle cx="64" cy="64" r="34" fill="none" stroke="#60A5FA" stroke-width="9"/>
-  <circle cx="64" cy="64" r="17" fill="#8B5CF6"/>
-  <circle cx="64" cy="64" r="7" fill="#E0F2FE"/>
+  <path d="m64 8 48 28v56l-48 28-48-28V36Z" fill="none" stroke="url(#clean-gradient)" stroke-width="8"/>
+  <circle cx="64" cy="64" r="34" fill="#0F172A" stroke="#60A5FA" stroke-width="8"/>
+  <circle cx="64" cy="64" r="18" fill="#4F46E5" stroke="#A5B4FC" stroke-width="6"/>
+  <path d="m64 51 11 7v13l-11 6-11-6V58Z" fill="#E0F2FE"/>
 </svg>
