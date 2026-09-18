@@ -129,6 +129,163 @@ Backend Engineering, AI & Distributed Systems
 
 ---
 
+<h2 align="center">🌟 Principais Projetos</h2>
+
+<h3 align="center">
+  🤖 <a href="https://github.com/BrayanDevZN/AgentRH">AgentRH</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/AgentRH">
+    <img src="https://raw.githubusercontent.com/BrayanDevZN/AgentRH/main/documents/assets/agentrh-flow.gif" width="780" alt="Fluxo de funcionamento do AgentRH"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Recrutamento mais organizado, rápido e automatizado.</strong>
+</p>
+
+O **AgentRH** ajuda empresas a administrar processos seletivos em um único lugar. A plataforma organiza usuários, vagas e candidaturas, recebe currículos e utiliza inteligência artificial para apoiar a análise antes de comunicar o resultado ao candidato.
+
+**Como ele ajuda o negócio:**
+
+- centraliza vagas, candidatos e currículos;
+- automatiza tarefas repetitivas da triagem;
+- processa análises em segundo plano sem travar a experiência do usuário;
+- envia o resultado da candidatura por e-mail;
+- oferece áreas e permissões diferentes para candidatos e administradores;
+- protege o acesso com autenticação segura e 2FA opcional;
+- mantém qualidade por meio de testes automatizados no fluxo de entrega.
+
+**Stack:** Python • FastAPI • PostgreSQL • Redis • Celery • OpenAI • Docker • GitHub Actions
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/AgentRH"><b>Explorar o repositório →</b></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">
+  🧠 <a href="https://github.com/BrayanDevZN/AiAgenteSelector">AiAgentSelector</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/AiAgenteSelector">
+    <img src="https://raw.githubusercontent.com/BrayanDevZN/AiAgenteSelector/main/image.png" width="220" alt="Logo do AiAgentSelector"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>O modelo de IA certo para cada tarefa, sem complicar a integração.</strong>
+</p>
+
+O **AiAgentSelector** funciona como uma camada inteligente entre uma aplicação e os modelos da OpenAI. O cliente envia sua solicitação para uma única API, e o serviço avalia a complexidade da tarefa antes de escolher o modelo mais adequado para executá-la.
+
+**Como ele ajuda o negócio:**
+
+- evita usar modelos mais caros em tarefas simples;
+- direciona solicitações complexas para modelos com maior capacidade;
+- busca equilibrar custo, velocidade e qualidade das respostas;
+- oferece uma única integração para diferentes modelos;
+- pode ajustar automaticamente o nível de detalhe da resposta;
+- permite otimizar a solicitação antes da execução;
+- controla o volume de chamadas com limites compartilhados no Redis.
+
+Pode ser usado em **chatbots, assistentes internos, automações, ferramentas de desenvolvimento e produtos de geração de conteúdo**.
+
+**Stack:** Python • FastAPI • OpenAI Responses API • Redis • Pydantic • Docker
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/AiAgenteSelector"><b>Explorar o repositório →</b></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">
+  🔎 <a href="https://github.com/BrayanDevZN/SearchAgentN8N">Search Agent N8N</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/SearchAgentN8N">
+    <img src="https://raw.githubusercontent.com/BrayanDevZN/SearchAgentN8N/main/assets/workflow-demo.gif" width="780" alt="Demonstração do Search Agent N8N"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Da pergunta ao relatório pronto no e-mail, de forma automática.</strong>
+</p>
+
+O **Search Agent N8N** recebe um tema por uma API protegida, pesquisa informações e imagens atuais na web, organiza o conteúdo em um relatório visual e envia o resultado diretamente para o e-mail informado.
+
+**Como ele ajuda o negócio:**
+
+- automatiza pesquisas que normalmente exigiriam trabalho manual;
+- reúne informações e imagens relacionadas ao tema solicitado;
+- transforma os resultados em um relatório HTML pronto para leitura;
+- entrega o conteúdo automaticamente pelo Gmail;
+- reutiliza resultados recentes para evitar processamento duplicado;
+- protege o acesso com autenticação JWT e validação dos dados;
+- permite executar todo o fluxo de maneira reproduzível com Docker.
+
+Pode ser usado para **pesquisa de mercado, levantamento de tendências, produção de conteúdo, inteligência competitiva e relatórios internos**.
+
+**Stack:** n8n • OpenAI • Redis • Gmail • Docker Compose • Python • JWT
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/SearchAgentN8N"><b>Explorar o repositório →</b></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">
+  ⏱️ <a href="https://github.com/BrayanDevZN/CronServer">CronServer</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/CronServer">
+    <img src="https://raw.githubusercontent.com/BrayanDevZN/CronServer/main/Documents/assets/cron-server-banner.png" width="780" alt="Arquitetura visual do CronServer"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Automação confiável para tarefas e integrações recorrentes.</strong>
+</p>
+
+O **CronServer** permite cadastrar chamadas HTTP que precisam ser executadas automaticamente em intervalos definidos. A aplicação agenda cada rotina, distribui o processamento entre workers e mantém um histórico dos resultados para acompanhamento.
+
+**Como ele ajuda o negócio:**
+
+- automatiza sincronizações e tarefas recorrentes entre sistemas;
+- evita a execução manual de rotinas operacionais;
+- permite configurar URL, método, cabeçalhos e dados enviados;
+- processa tarefas em segundo plano sem bloquear a API;
+- repete automaticamente chamadas que falharem;
+- registra o resultado das execuções para consulta posterior;
+- protege cada agendamento com um token individual;
+- distribui a carga entre workers conforme a demanda.
+
+Pode ser usado para **sincronização de dados, disparo de webhooks, atualização de catálogos, rotinas de manutenção e integrações agendadas**.
+
+**Stack:** Python • FastAPI • Celery • Redis • PostgreSQL • Docker • Nginx • JWT
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/CronServer"><b>Explorar o repositório →</b></a>
+</p>
+
+---
+
 ## 🧩 Como construo sistemas
 
 Começo pelo domínio e pelos requisitos do sistema. Depois defino limites, responsabilidades, dados e integrações; a escolha das ferramentas vem como consequência.
