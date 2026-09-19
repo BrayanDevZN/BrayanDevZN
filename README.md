@@ -284,6 +284,54 @@ Pode ser usado para **sincronização de dados, disparo de webhooks, atualizaç�
   <a href="https://github.com/BrayanDevZN/CronServer"><b>Explorar o repositório →</b></a>
 </p>
 
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">
+  🛡️ <a href="https://github.com/BrayanDevZN/N8n_server">n8n Secure Gateway</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/N8n_server">
+    <img src="https://raw.githubusercontent.com/BrayanDevZN/N8n_server/main/docs/assets/n8n-gateway.gif" width="780" alt="Demonstração do n8n Secure Gateway"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Uma camada de proteção para executar e publicar automações n8n com mais controle.</strong>
+</p>
+
+O **n8n Secure Gateway** protege uma instância n8n antes que as requisições cheguem às automações. Ele combina proxy reverso, verificação de acesso, limitação de tráfego e bloqueio opcional de IPs reincidentes.
+
+**Como ele funciona:**
+
+1. O cliente envia uma requisição para o Nginx, que funciona como única entrada pública.
+2. Antes de encaminhar a requisição, o Nginx solicita uma verificação interna à API FastAPI.
+3. A API consulta no Redis os limites globais e individuais daquele IP.
+4. Se o acesso estiver dentro dos limites, o Nginx encaminha a requisição original ao n8n.
+5. Quando um IP ultrapassa o rate limit, a violação é registrada e a requisição é recusada.
+6. Com o bloqueio ativado, o IP é bloqueado ao atingir o número configurado de reincidências.
+
+Por exemplo, com `block_limit=4`, um IP que estourar o rate limit quatro vezes entra na lista de bloqueio e deixa de conseguir acessar o serviço.
+
+**Como ele ajuda o negócio:**
+
+- reduz o risco de abuso contra webhooks e automações públicas;
+- impede que o n8n fique diretamente exposto à internet;
+- permite configurar limites globais e por IP;
+- bloqueia automaticamente clientes que repetem comportamentos abusivos;
+- preserva workflows, usuários e credenciais em um volume persistente;
+- entrega uma infraestrutura reutilizável para diferentes automações.
+
+**Stack:** Python • FastAPI • Nginx • Redis • n8n • Docker Compose
+
+<p align="center">
+  <a href="https://github.com/BrayanDevZN/N8n_server"><b>Explorar o repositório →</b></a>
+</p>
+
 ---
 
 ## 🧩 Como construo sistemas
