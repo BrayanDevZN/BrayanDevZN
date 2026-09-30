@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">AI Engineering Concepts</title>
+  <desc id="desc">Embeddings, RAG, Prompt Engineering and Context Engineering</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="border1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="border2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="border3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="border4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#EF4444"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="22" width="180" height="136" rx="26" fill="url(#bg)" stroke="url(#border1)" stroke-width="2.5"/>
+  <g transform="translate(52 42)">
+    <circle cx="38" cy="34" r="8" fill="#22D3EE"/><circle cx="96" cy="22" r="8" fill="#60A5FA"/><circle cx="114" cy="68" r="8" fill="#A78BFA"/><circle cx="62" cy="82" r="8" fill="#38BDF8"/><circle cx="18" cy="72" r="8" fill="#2DD4BF"/>
+    <path d="M25 66 33 40M45 35 88 24M100 30l10 30M107 73 69 80M55 76 25 72M43 41 57 76" stroke="#E5F3FF" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+  <text x="110" y="130" text-anchor="middle" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Embeddings</text>
+  <text x="110" y="148" text-anchor="middle" fill="#94A3B8" font-size="10.5" font-family="Arial, Helvetica, sans-serif">Vector representations</text>
+  <rect x="240" y="22" width="180" height="136" rx="26" fill="url(#bg)" stroke="url(#border2)" stroke-width="2.5"/>
+  <g transform="translate(272 40)">
+    <rect x="0" y="0" width="58" height="76" rx="12" fill="#0F172A" stroke="#60A5FA" stroke-width="3.5"/>
+    <path d="M15 23h28M15 37h28M15 51h18" stroke="#E5F3FF" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="76" cy="54" r="23" fill="#1D4ED8" stroke="#BFDBFE" stroke-width="5"/>
+    <path d="M89 67 109 87" stroke="#A78BFA" stroke-width="8" stroke-linecap="round"/>
+    <path d="M64 55h23" stroke="#E5F3FF" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="330" y="130" text-anchor="middle" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">RAG</text>
+  <text x="330" y="148" text-anchor="middle" fill="#94A3B8" font-size="10.5" font-family="Arial, Helvetica, sans-serif">Retrieval + generation</text>
+  <rect x="460" y="22" width="180" height="136" rx="26" fill="url(#bg)" stroke="url(#border3)" stroke-width="2.5"/>
+  <g transform="translate(492 40)">
+    <path d="M0 12h86v56H40L22 84V68H0Z" fill="#0F172A" stroke="#34D399" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M18 29h51M18 43h35" stroke="#E5F3FF" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="74" cy="54" r="13" fill="#FACC15"/>
+    <path d="m74 45 2.7 5.5 6 0.9-4.3 4.2 1 5.9-5.4-2.8-5.4 2.8 1-5.9-4.3-4.2 6-.9Z" fill="#FFF7CC"/>
+  </g>
+  <text x="550" y="130" text-anchor="middle" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Prompt Engineering</text>
+  <text x="550" y="148" text-anchor="middle" fill="#94A3B8" font-size="10.5" font-family="Arial, Helvetica, sans-serif">Instruction design</text>
+  <rect x="680" y="22" width="200" height="136" rx="26" fill="url(#bg)" stroke="url(#border4)" stroke-width="2.5"/>
+  <g transform="translate(718 40)">
+    <rect x="0" y="12" width="40" height="56" rx="9" fill="#0F172A" stroke="#F59E0B" stroke-width="3.5"/>
+    <rect x="28" y="0" width="40" height="56" rx="9" fill="#0F172A" stroke="#F97316" stroke-width="3.5"/>
+    <rect x="56" y="18" width="40" height="56" rx="9" fill="#0F172A" stroke="#EF4444" stroke-width="3.5"/>
+    <path d="M12 30h16M40 19h16M68 36h16M40 34h16M68 51h16" stroke="#E5F3FF" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+  <text x="780" y="130" text-anchor="middle" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Context Engineering</text>
+  <text x="780" y="148" text-anchor="middle" fill="#94A3B8" font-size="10.5" font-family="Arial, Helvetica, sans-serif">Context structuring</text>
+</svg>
