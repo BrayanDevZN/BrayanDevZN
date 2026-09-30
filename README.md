@@ -31,12 +31,9 @@ Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em 
 <br/>
 
 <p align="center">
-  <img src="./assets/stack-ai-automation.png" width="680" alt="OpenAI API, Anthropic API, Hugging Face, AI Agents e n8n"/>
+  <img src="./assets/stack-ai-automation-v2.svg" width="820" alt="OpenAI API, Anthropic API, Hugging Face, AI Agents e n8n"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face"/>
-</p>
 
 <br/><br/>
 
@@ -45,13 +42,9 @@ Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em 
 <br/>
 
 <p align="center">
-  <img src="./assets/stack-backend.png" width="750" alt="Python, Go, FastAPI, Gin, Celery, Pydantic e SQLAlchemy"/>
+  <img src="./assets/stack-backend-v2.svg" width="900" alt="Python, FastAPI, Celery, Pydantic, SQLAlchemy, Go e Gin"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin"/>
-</p>
 
 <br/><br/>
 
