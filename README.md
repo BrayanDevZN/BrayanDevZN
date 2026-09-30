@@ -34,6 +34,10 @@ Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em 
   <img src="./assets/stack-ai-automation-v2.svg" width="820" alt="OpenAI API, Anthropic API, Hugging Face, AI Agents e n8n"/>
 </p>
 
+<p align="center">
+  <strong>Embeddings • RAG • Prompt Engineering • Context Engineering</strong>
+</p>
+
 
 <br/><br/>
 
