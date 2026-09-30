@@ -35,7 +35,7 @@ Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em 
 </p>
 
 <p align="center">
-  <strong>Embeddings • RAG • Prompt Engineering • Context Engineering</strong>
+  <img src="./assets/stack-ai-concepts.svg" width="760" alt="Embeddings, RAG, Prompt Engineering e Context Engineering"/>
 </p>
 
 
