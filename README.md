@@ -35,7 +35,7 @@ Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em 
 </p>
 
 <p align="center">
-  <img src="./assets/stack-ai-concepts.svg" width="760" alt="Embeddings, RAG, Prompt Engineering e Context Engineering"/>
+  <img src="./assets/stack-ai-concepts-v3.svg" width="900" alt="Embeddings, RAG, Prompt Engineering e Context Engineering"/>
 </p>
 
 
@@ -101,7 +101,7 @@ Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em 
 <br/>
 
 <p align="center">
-  <img src="./assets/stack-architecture.png" width="570" alt="Clean Architecture, Event-Driven e Monolithic"/>
+  <img src="./assets/stack-architecture-v3.svg" width="760" alt="Clean Architecture, Event-Driven e Monolithic"/>
 </p>
 
 </div>
