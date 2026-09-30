@@ -42,7 +42,11 @@ Construo **APIs robustas**, **agentes de IA** e **fluxos de dados** com foco em 
 <br/>
 
 <p align="center">
-  <img src="./assets/stack-backend-v2.svg" width="900" alt="Python, FastAPI, Celery, Pydantic, SQLAlchemy, Go e Gin"/>
+  <img src="./assets/stack-backend.png" width="750" alt="Python, FastAPI, Celery, Pydantic e SQLAlchemy"/>
+</p>
+
+<p align="center">
+  <img src="./assets/stack-backend-extra.svg" width="300" alt="Go e Gin"/>
 </p>
 
 
